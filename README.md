@@ -22,14 +22,14 @@ pair9 박지영 박승수<br><br>
 
 | No. ClassName                         | code                                                                 |
 | ------------------------------------- | :------------------------------------------------------------------- |
-| 1 지역별 관광지 정보 수집 <br>2 관광지, 숙박, 음식점 조회   <br>  3 문화시설, 공연, 여행코스, 쇼핑 조회           | ![Map-Servlet](/uploads/c07ac69bf4aaca2b7add1c5e604dd28a/image.png) | 
-|    | ![searchLoc-DAO](/uploads/6b5564acff3b68a3c234addec5033159/image.png)   |
-|     | ![searchOption-DAO](/uploads/0157e006cf73351ecca1804adb2adf07/image.png) |
-| 7 회원 관리                           |  ![Info](/uploads/973b442ad527d7ec946cb25458cb6d07/image.png) 
-|   |  ![SignUp](/uploads/a81292e59f294aec4995871a205d00e0/image.png) |
-| 8 로그인 관리                         | ![Login-Servlet](/uploads/010530b025f37d0777d02296a40cc65a/image.png) |
-|   | ![info-servlet](/uploads/fe553b7734d1fcebef2a64005ef11a68/image.png) |
-|   | ![Login-SessionConfig](/uploads/4f4ee4998cfa6c5c8400eb40c74016da/image.png)  |
+| 1 지역별 관광지 정보 수집 <br>2 관광지, 숙박, 음식점 조회   <br>  3 문화시설, 공연, 여행코스, 쇼핑 조회           |<img width="520" alt="image-1" src="https://user-images.githubusercontent.com/69618305/228827059-b56362d8-e68d-48f9-b65f-7d4a0b5c6569.png">| 
+|    | <img width="1146" alt="image-2" src="https://user-images.githubusercontent.com/69618305/228827090-8336eae2-d9bc-470c-8ff1-91e22cb95319.png">|
+|     | <img width="693" alt="image-3" src="https://user-images.githubusercontent.com/69618305/228827147-193a8888-ca76-4615-b362-a9b885d2cd15.png">|
+| 7 회원 관리                           |  <img width="648" alt="image-4" src="https://user-images.githubusercontent.com/69618305/228827670-34fa7afe-ee3c-4fa6-bfd7-5f39dee242cb.png">|
+|   |  <img width="542" alt="image-5" src="https://user-images.githubusercontent.com/69618305/228827698-417a937f-a29b-47bf-8bd6-77813dc63e42.png">|
+| 8 로그인 관리                         |<img width="557" alt="image-6" src="https://user-images.githubusercontent.com/69618305/228827736-10a8bd20-9528-4b76-b4f9-587539cb78d5.png">|
+|   |<img width="596" alt="image-7" src="https://user-images.githubusercontent.com/69618305/228827771-293ff065-4130-417c-a690-c5ddaedc3efe.png">|
+|   |<img width="822" alt="image-8" src="https://user-images.githubusercontent.com/69618305/228827801-970a50b0-3529-4072-8d8b-129937d1c397.png">|
 
 # 소감
 
